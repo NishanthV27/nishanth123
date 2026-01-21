@@ -1,28 +1,22 @@
-# Hi 👋 I'm Nishanth  
+# Hi 👋 I'm Nishanth (nishrolex)  
 
 🎓 B.Tech AI/ML Student  
 💻 Aspiring Software Development Engineer (SDE)  
-📊 Data Analytics Enthusiast  
-🧠 AI | ML | NLP | GenAI | Agentic AI Learner  
+📊 Data Analytics & AI Enthusiast  
 
-I am passionate about building intelligent systems, solving DSA problems, and creating real-world applications using AI and full-stack technologies.
-
----
-
-## 🚀 Career Interests
-
-- Software Development Engineer (SDE)  
-- AI / ML Engineer  
-- Data Analyst  
-- Research in Artificial Intelligence  
+I specialize in solving DSA problems, building AI/ML systems, and creating full-stack applications.
 
 ---
 
-## 🧠 Problem Solving
+## 🧠 LeetCode Stats
 
-- 🔹 Active LeetCode DSA learner  
-- 🔹 Focus on Arrays, Strings, Recursion, DP, Graphs  
-- 🔹 Improving problem-solving & algorithmic thinking  
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=nishrolex&theme=dark)
+
+**Rank:** 247,404 (India)  
+**Problems Solved:** Python3: 380 | Python: 83 | MySQL: 14  
+**Badges:** 50 / 100 / 200 Days Streak  
+
+_Practice regularly to level up this profile!_  
 
 ---
 
@@ -55,42 +49,27 @@ I am passionate about building intelligent systems, solving DSA problems, and cr
 
 ## 📊 GitHub Stats
 
-![Nishanth GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🧩 LeetCode Status
-
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark)
-
-👉 Replace `YOUR_LEETCODE_USERNAME` with your LeetCode id.
+*(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)*
 
 ---
 
 ## 📌 Projects Focus
 
-- AI Powered Systems  
-- ML Models for Real Data  
-- Web Applications using Flask & Django  
-- NLP Chatbots  
+- AI/ML Model Deployment  
+- Full-stack Web Apps (Flask/Django)  
+- NLP & CV Projects  
 - Data Analytics Dashboards  
-- Computer Vision Applications  
 
 ---
 
 ## 📫 Contact Me
 
-📧 Email: **nishnathv.tech@gmail.com**  
-📱 Mobile: **6381632090**  
+📧 **nishnathv.tech@gmail.com**  
+📱 **6381632090**  
 
 ---
 
-## 🌟 Goal
-
-To become a highly skilled AI Engineer and SDE who builds impactful intelligent solutions for real-world problems.
-
----
-
-✨ Thank you for visiting my GitHub profile!
+✨ Thanks for stopping by — let’s build amazing tech! 🚀
