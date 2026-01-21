@@ -21,13 +21,6 @@ I am a passionate and driven engineering student with strong interest in Artific
 ## 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nishrolex?theme=dark&font=Karma&ext=heatmap)
-
-**Rank:** 247,404 (India)  
-**Problems Solved:** Python3: 380 | Python: 83 | MySQL: 14  
-**Badges:** 50 / 100 / 200 Days Streak  
-
-_Practice regularly to level up this profile!_  
-
 ---
 
 ## 🛠️ Skills & Technologies
@@ -61,10 +54,11 @@ _Practice regularly to level up this profile!_
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
 
-*(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishanthV27&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthV27&layout=compact&theme=tokyonight)
+
 
 ---
 
