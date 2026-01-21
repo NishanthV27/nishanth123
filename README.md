@@ -1,4 +1,4 @@
-# Hi 👋 I'm Nishanth (nishrolex)  
+# Hi 👋 I'm Nishanth
 
 🎓 B.Tech AI/ML Student  
 💻 Aspiring Software Development Engineer (SDE)  
@@ -22,30 +22,32 @@ _Practice regularly to level up this profile!_
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming & Web
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![Django](https://img.shields.io/badge/Django-green?logo=django)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+
 
 ### 📊 Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-blue?logo=opencv)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
 ### 🤖 AI Domains
-- Machine Learning  
-- Deep Learning  
-- NLP  
-- Generative AI  
-- Agentic AI  
-- Computer Vision  
+![NLP](https://img.shields.io/badge/NLP-4285F4?logo=google&logoColor=white)
+![Generative AI](https://img.shields.io/badge/GenerativeAI-8E2DE2?logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/AgenticAI-00C7B7?logo=openai&logoColor=white)
 
----
+--- 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
